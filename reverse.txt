@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+    <html>
+     <head>
+	<meta charset= "utf-8">
+       <title>Topsy Turvy</title>
+        
+       </head>
+	<body>
+	<h1> Try This!</h1>
+        <label>Type your phrase in here:</label> <input type= "text" id="phrase"/>
+        <input type="button" value="Reverse!" method="post">
+
+	</body>
+	 <script src="reverse.js">
+	 </script>
+    </html>    
