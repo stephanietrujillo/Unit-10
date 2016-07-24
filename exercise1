@@ -1,0 +1,14 @@
+1. Country {name: "United States of America", population: "324,045,364", language: "English", 
+           capital: "Washington, D.C."}
+
+   Restaurant {name: "McDonalds", type: "fast-food", founded: "May 15,1940", founder: "Richard and Maurice McDonald", 
+                CEO: "Steve Easterbrook"}
+   
+    Music album: {name: "Sgt. Pepper's Lonely Hearts Club Band", artist: "The Beatles", released: "June 1, 1967", 
+                   length: "39:52", genre: "Rock, Pop, Psychedelic Rock, Art Rock"}
+
+    Basketball Team: { name: "Cleveland Cavaliers", conference: "Eastern", founded: "1970", colors: " Wine, gold, navy blue, white",
+                       head coach: "Tyronn Lue"} 
+
+    Movie: { title: "The Road to El Dorado", directed by: "Bibo Bergeron, Don Paul, Jeffery Katzenberg", written by: "Ted Elliot, Terry Rossio"
+             distributor: "Dreamworks Pictures", running time: "89 minutes"}
